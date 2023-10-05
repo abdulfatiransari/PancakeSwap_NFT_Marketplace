@@ -15,7 +15,7 @@ contract Token {
     string public symbol = "MHT";
 
     // The fixed amount of tokens stored in an unsigned integer type variable.
-    uint256 public totalSupply = 1000000;
+    uint256 public totalSupply = 10000000000000000;
 
     // An address type variable is used to store ethereum accounts.
     address public owner;
